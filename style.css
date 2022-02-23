@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Gloria+Hallelujah&family=Lora&family=Open+Sans+Condensed:ital,wght@1,300&family=Oswald:wght@200&family=Pacifico&family=Zen+Kurenaido&display=swap');
+body{
+    height: 100vh !important;
+}
+.div-size{
+    border: 2px solid lightgray;
+}
+
+.div-header{
+    background-color: #525a58 !important;
+    
+}
+.img-size{
+    width: 10em !important;
+    height: 10em !important;
+    border: 5px dotted yellow !important;      
+}
+.divi-size{
+    background-color: #525a58;
+}
+.text-size{
+    width: 30em !important;
+    height: 4em !important;
+    background-color: darkgoldenrod;
+    border: 1px;
+    border-radius: 10px;    
+}
+.bor-dis{
+    border: dashed !important;
+}
+.border{
+    border-color: gray !important;
+}
